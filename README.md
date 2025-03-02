@@ -1,4 +1,4 @@
-This project is a modern Blogger platform where users can share and read blog posts. It is developed using React, Redux Toolkit, Javascript and Material UI providing an user-friendly interface.
+This project is a modern Blog Writing platform where users can share and read blog posts. It is developed using React, Redux Toolkit, Javascript and Material UI providing a responsive and user-friendly interface.
 
 Features:
 Blog Publishing: Users can create new blog posts.
