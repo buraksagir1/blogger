@@ -12,9 +12,7 @@ React, Redux Toolkit, React Router, Material UI
 
 Installation:
 Clone the repository.
-Install dependencies: 
-cd blogger
-npm install
+Go to the root directory of the project. To install the necessary dependencies: npm install
 Run the project: npm run dev
 
 Contact:
