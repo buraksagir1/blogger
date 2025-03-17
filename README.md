@@ -11,8 +11,10 @@ Technologies Used:
 React, Redux Toolkit, React Router, Material UI
 
 Installation:
-Clone the repository:
-Install dependencies: npm install
+Clone the repository.
+Install dependencies: 
+cd blogger
+npm install
 Run the project: npm run dev
 
 Contact:
