@@ -17,7 +17,7 @@ Run the project: npm run dev
 
 Contact:
 If you have any questions or feedback, feel free to reach out via:
-Email: enes36123@hotmail.com
+Email: burak.sagir@ug.bilkent.edu.tr
 
 
  
